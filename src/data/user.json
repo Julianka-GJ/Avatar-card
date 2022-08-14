@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "picture": "https://img.freepik.com/premium-vector/young-smiling-woman-with-short-haircut-portrait-of-beautiful-brunette-avatar-happy-girl-smiles-avatar-for-social-networks-abstract-female-portrait-full-face-illustration-in-flat-style_276162-63.jpg",
+      "age": 20,
+      "name": "Gordon Ray",
+      "email": "gordonray@fitcore.com",
+      "phone": "+1 (976) 564-2363"
+    },
+    {
+      "id": "2",
+      "picture": "https://img.freepik.com/premium-vector/young-woman-with-long-haircut-and-sunglasses-portrait-of-beautiful-brunette-full-face_276162-119.jpg",
+      "age": 21,
+      "name": "Patrick Herring",
+      "email": "patrickheing@fitcore.com",
+      "phone": "+1 (856) 537-2677"
+    },
+    {
+      "id": "3",
+      "picture": "https://img.freepik.com/premium-vector/head-of-bearded-man-in-profile-portrait-of-bearded-redhead-man-face-side-view_276162-125.jpg",
+      "age": 26,
+      "name": "Davidson Dawson",
+      "email": "davidsawson@fitcore.com",
+      "phone": "+1 (974) 534-2000"
+    },
+    {
+      "id": "4",
+      "picture": "https://img.freepik.com/premium-vector/young-woman-with-short-hairstyles-and-sunglasses-portrait-of-beautiful-brunette-full-face_276162-118.jpg",
+      "age": 31,
+      "name": "Booker Perry",
+      "email": "bookerperry@fitcore.com",
+      "phone": "+1 (808) 532-2395"
+    },
+    {
+      "id": "5",
+      "picture": "https://img.freepik.com/premium-vector/head-of-bearded-man-in-profile-portrait-of-bearded-brunet-man-face-side-view_276162-124.jpg",
+      "age": 25,
+      "name": "Pennington David",
+      "email": "pennindavid@fitcore.com",
+      "phone": "+1 (894) 565-3376"
+    },
+    {
+      "id": "6",
+      "picture": "https://img.freepik.com/premium-vector/male-portrait-of-bearded-african-man-in-profile_276162-113.jpg",
+      "age": 25,
+      "name": "Bass Forbes",
+      "email": "bassforbes@fitcore.com",
+      "phone": "+1 (943) 522-2876"
+    },
+    {
+      "id": "7",
+      "picture": "https://img.freepik.com/premium-vector/young-african-woman-with-glasses-portrait-of-beautiful-african-woman-full-face_276162-129.jpg",
+      "age": 29,
+      "name": "Sondra Richard",
+      "email": "sondrarichard@fitcore.com",
+      "phone": "+1 (848) 442-3558"
+    }
+  ]
